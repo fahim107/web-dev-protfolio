@@ -238,3 +238,30 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 ::placeholder{color:#757575;
     font-size: 16px;
 }
+/* i{color: #181818;}
+
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  text-decoration: none;
+  gap: 8px;
+}
+
+.btn-primary {
+  background-color: #f97316;
+  color: white;
+  border: none;
+}
+
+.btn-outline {
+  border: 2px solid #f97316;
+  color: #f97316;
+  background: transparent;
+} */
+.btn-primary i {
+  margin-right: 8px; 
+}
